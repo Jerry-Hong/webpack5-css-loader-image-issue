@@ -1,0 +1,21 @@
+{
+  "name": "webpack5-css-loader-image-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "webpack": "^5.75.0",
+    "esbuild-loader": "^2.20.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
